@@ -44,3 +44,8 @@ Ping Test
 ```
 $ mininet> pingall
 ```
+
+View Topology and YangUI. Use username/password: admin/admin
+```
+localhost:8181/index.html
+```
